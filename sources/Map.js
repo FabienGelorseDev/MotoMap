@@ -109,7 +109,7 @@ export default function Map() {
     return false;
   }
 
-  const GOOGLE_MAPS_APIKEY = 'AIzaSyCUz4GdzDK2fZZuYNcXDVz9wx-F9CmCKGE';
+  //const GOOGLE_MAPS_APIKEY = '';
   const [destination, setDestination] = useState(null);
 
   return (
